@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ecestebanjek
-- 👀 I’m interested in big data and data science
-- 🌱 I’m currently learning about R and Python
+- 👀 I’m interested in big data, data science, econometry and machine learning.
 
 
 <!---
